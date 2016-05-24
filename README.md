@@ -1,2 +1,2 @@
 # Calc1
-# Java project for IDEA
+# Java project for IDEA, with functions
